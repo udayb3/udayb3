@@ -11,4 +11,4 @@
       - _Web Scraping_ libraries such as Beautifulsoup, Selenium
       - _GUI_ libraries such as Tkinter, Turtle
       - _API and mail-related_ libraries such as Requests, smtblib
-  - _Topics_: _Data Structures and_
+
