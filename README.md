@@ -1,4 +1,4 @@
-<center><img src="./icons/cat.gif" alt="Home1" align="center" width="50%" height="auto" style="vertical-align:middle;margin:auto"></center>
+<p align="center"><img src="./icons/cat.gif" alt="Home1" align="center" width="60%" height="auto" style="vertical-align:middle;margin:auto"></p>
 
 <h1 align="center"> Hey Everyone, This is Uday here 👋</h1>
 
@@ -15,18 +15,18 @@
 
 ### Languages and Tools
 <p align="left" >
-  <span style="vertical-align: middle;"><img src="./icons/Java-Dark.svg" alt="java-language" align="center" width="40" height="40" ></span>&ensp;
-  <span style="vertical-align: middle;"><img src="./icons/Python-Dark.svg" alt="python-language" align="center" width="40" height="40" ></span>&ensp;
+  <span style="vertical-align: middle;"><img src="./icons/Java-Dark.svg" alt="java-language" align="center" width="40" height="60" ></span>&ensp;
+  <span style="vertical-align: middle;"><img src="./icons/Python-Dark.svg" alt="python-language" align="center" width="40" height="60" ></span>&ensp;
   <span style="vertical-align: middle;"><img src="./icons/JavaScript.svg" alt="javascript-language" align="center" width="40" height="60" ></span>&ensp;
-  <span style="vertical-align: middle;"><img src="./icons/TypeScript.svg" alt="typescript-language" align="center" width="40" height="40" ></span>&ensp;
-  <span style="vertical-align: middle;"><img src="./icons/C.svg" alt="c-language" align="center" width="40" height="40" ></span>&ensp;
-  <span style="vertical-align: middle;"><img src="./icons/CPP.svg" alt="cpp-language" align="center" width="40" height="40" ></span>&ensp;
-  <span style="vertical-align: middle;"><img src="./icons/Spring-Dark.svg" alt="spring-framework" align="center" width="40" height="40" ></span>&ensp;
-  <span style="vertical-align: middle;"><img src="./icons/Bootstrap.svg" alt="bootstrap-framework" align="center" width="40" height="40" > </span>&ensp;
-  <span style="vertical-align: middle;"><img src="./icons/TailwindCSS-Dark.svg" alt="tailwind-framework" align="center" width="40" height="40" ></span>&ensp;
-  <span style="vertical-align: middle;"><img src="./icons/PostgreSQL-Dark.svg" alt="postgres-db" align="center" width="40" height="40" ></span>&ensp;
-  <span style="vertical-align: middle;"><img src="./icons/Flask-Dark.svg" alt="flask-miniframework" align="center" width="40" height="40" tyle="vertical-align:middle;margin:auto;"></span>&ensp;
-  <span style="vertical-align: middle;"><img src="./icons/Arch-Dark.svg" alt="arch-os" align="center" width="40" height="40" ></span>&ensp;
+  <span style="vertical-align: middle;"><img src="./icons/TypeScript.svg" alt="typescript-language" align="center" width="40" height="60" ></span>&ensp;
+  <span style="vertical-align: middle;"><img src="./icons/C.svg" alt="c-language" align="center" width="40" height="60" ></span>&ensp;
+  <span style="vertical-align: middle;"><img src="./icons/CPP.svg" alt="cpp-language" align="center" width="40" height="60" ></span>&ensp;
+  <span style="vertical-align: middle;"><img src="./icons/Spring-Dark.svg" alt="spring-framework" align="center" width="40" height="60" ></span>&ensp;
+  <span style="vertical-align: middle;"><img src="./icons/Bootstrap.svg" alt="bootstrap-framework" align="center" width="40" height="60" > </span>&ensp;
+  <span style="vertical-align: middle;"><img src="./icons/TailwindCSS-Dark.svg" alt="tailwind-framework" align="center" width="40" height="60" ></span>&ensp;
+  <span style="vertical-align: middle;"><img src="./icons/PostgreSQL-Dark.svg" alt="postgres-db" align="center" width="40" height="60" ></span>&ensp;
+  <span style="vertical-align: middle;"><img src="./icons/Flask-Dark.svg" alt="flask-miniframework" align="center" width="40" height="60" tyle="vertical-align:middle;margin:auto;"></span>&ensp;
+  <span style="vertical-align: middle;"><img src="./icons/Arch-Dark.svg" alt="arch-os" align="center" width="40" height="60"></span>&ensp;
 </p>
 
 ### Statistics
